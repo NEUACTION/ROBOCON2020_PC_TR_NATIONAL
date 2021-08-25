@@ -1,0 +1,3 @@
+/home/anwei/Code/ABU2020_PC_TR/build/CMakeFiles/rebuild_cache.dir
+/home/anwei/Code/ABU2020_PC_TR/build/CMakeFiles/control.dir
+/home/anwei/Code/ABU2020_PC_TR/build/CMakeFiles/edit_cache.dir
